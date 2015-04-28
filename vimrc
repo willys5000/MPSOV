@@ -5,6 +5,7 @@ set hlsearch "Resaltado de busquedas
 set background=dark "Estilo 'dark' activo.
 set cursorline
 hi CursorLine cterm=NONE ctermbg=darkred ctermfg=none guibg=darkred   guifg=white
+autocmd FileType php set omnifunc=phpcomplete#CompletePHP
 
 " 1 tab = 4 spaces
 set tabstop=4
