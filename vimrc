@@ -1,3 +1,4 @@
+syntax on
 set fileencoding=utf-8 "UTF-8 by default.
 set nu "Numeración de lieas activa.
 set ic "Indiferencia entre mayusculas y minusculas.
